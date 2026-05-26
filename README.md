@@ -7,8 +7,11 @@
   </a>
   
   <br>
-  
   <img src="https://komarev.com/ghpvc/?username=samuelmichaelalva&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  
+  <br><br>
+  <i>"I can do all things through Him who strengthens me"</i> <br>
+  <b>— Philippians 4:13</b>
 </div>
 
 ---
