@@ -30,7 +30,8 @@
 ---
 
 # 🎮 Take a break and play a game!
-I built this mini-game using JavaScript. Click the image below to play it!
+I built this mini-game using JavaScript. Click below to play it!
+👉 https://goku-fighter.vercel.app?utm_source=chatgpt.com
 
 [![Play My Game](https://raw.githubusercontent.com/samuelmichaelalva/your-repo-name/main/gameplay.gif)](https://your-game-link.vercel.app)
 
