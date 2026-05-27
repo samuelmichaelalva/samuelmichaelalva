@@ -31,7 +31,7 @@
 
 # 🎮 Take a break and play a game!
 I built this mini-game using JavaScript. Click below to play it!<br>
-👉 https://goku-fighter.vercel.app?utm_source=chatgpt.com
+👉 https://goku-fighter.vercel.app
 
 [![Play My Game](https://raw.githubusercontent.com/samuelmichaelalva/your-repo-name/main/gameplay.gif)](https://your-game-link.vercel.app)
 
