@@ -36,7 +36,7 @@ I built these mini-games using JavaScript. Click below to play them!
 ## 🚀 Space Warrior  
 Retro arcade space shooter built to bring back classic 70s–90s gaming nostalgia.  
 👉 https://space-warrior-seven.vercel.app
-<br>
+##
 ## 🥷 Goku Fighter  
 Anime-inspired shadow fighting game with fast arcade-style combat.  
 👉 https://goku-fighter.vercel.app
